@@ -1,8 +1,8 @@
 # Tugas 1 PBO 
 ## Identitas Diri
-Nama : Reynard Rakha Fatin Nugraha
-NIM : 2300018234
-Kelas : D
+- Nama : Reynard Rakha Fatin Nugraha
+- NIM : 2300018234
+- Kelas : D
 
 ## Deskripsi Tugas
 Menambahkan fitur :
